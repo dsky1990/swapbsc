@@ -2,7 +2,7 @@
   "files": {
     "static/js/0.91c07c6f.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/swapbsc@main/static/js/0.91c07c6f.chunk.js",
     "static/js/1.8c5dfd5c.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/swapbsc@main/static/js/1.8c5dfd5c.chunk.js",
-    "main.js": "https://cdn.jsdelivr.net/gh/dsky1990/swapbsc@main/static/js/main.daedebdf.chunk.js",
+    "main.js": "https://cdn.jsdelivr.net/gh/dsky1990/swapbsc@main/static/js/main.6b4b49cb.chunk.js",
     "runtime-main.js": "https://cdn.jsdelivr.net/gh/dsky1990/swapbsc@main/static/js/runtime-main.4f84d358.js",
     "static/css/4.5189db5a.chunk.css": "https://cdn.jsdelivr.net/gh/dsky1990/swapbsc@main/static/css/4.5189db5a.chunk.css",
     "static/js/4.049f5d0b.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/swapbsc@main/static/js/4.049f5d0b.chunk.js",
@@ -12,7 +12,7 @@
     "static/js/8.419ecf2a.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/swapbsc@main/static/js/8.419ecf2a.chunk.js",
     "static/js/9.ba77caa5.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/swapbsc@main/static/js/9.ba77caa5.chunk.js",
     "index.html": "https://cdn.jsdelivr.net/gh/dsky1990/swapbsc@main/index.html",
-    "precache-manifest.2e4bcfc96a246c20e8243fb7a1a72c07.js": "https://cdn.jsdelivr.net/gh/dsky1990/swapbsc@main/precache-manifest.2e4bcfc96a246c20e8243fb7a1a72c07.js",
+    "precache-manifest.95db509f085336b617ab8189dd7b230c.js": "https://cdn.jsdelivr.net/gh/dsky1990/swapbsc@main/precache-manifest.95db509f085336b617ab8189dd7b230c.js",
     "service-worker.js": "https://cdn.jsdelivr.net/gh/dsky1990/swapbsc@main/service-worker.js",
     "static/js/0.91c07c6f.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/dsky1990/swapbsc@main/static/js/0.91c07c6f.chunk.js.LICENSE.txt",
     "static/js/4.049f5d0b.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/dsky1990/swapbsc@main/static/js/4.049f5d0b.chunk.js.LICENSE.txt",
@@ -34,6 +34,7 @@
     "static/media/dropup-blue.svg": "https://cdn.jsdelivr.net/gh/dsky1990/swapbsc@main/static/media/dropup-blue.b96d70e1.svg",
     "static/media/empty-proposals.svg": "https://cdn.jsdelivr.net/gh/dsky1990/swapbsc@main/static/media/empty-proposals.d384030e.svg",
     "static/media/ex-change.svg": "https://cdn.jsdelivr.net/gh/dsky1990/swapbsc@main/static/media/ex-change.35714267.svg",
+    "static/media/exchange-active.svg": "https://cdn.jsdelivr.net/gh/dsky1990/swapbsc@main/static/media/exchange-active.e3e18185.svg",
     "static/media/link.svg": "https://cdn.jsdelivr.net/gh/dsky1990/swapbsc@main/static/media/link.50c67f3c.svg",
     "static/media/magnifying-glass.svg": "https://cdn.jsdelivr.net/gh/dsky1990/swapbsc@main/static/media/magnifying-glass.67440097.svg",
     "static/media/menu.svg": "https://cdn.jsdelivr.net/gh/dsky1990/swapbsc@main/static/media/menu.4f2c4440.svg",
@@ -53,6 +54,6 @@
     "static/js/runtime-main.4f84d358.js",
     "static/css/4.5189db5a.chunk.css",
     "static/js/4.049f5d0b.chunk.js",
-    "static/js/main.daedebdf.chunk.js"
+    "static/js/main.6b4b49cb.chunk.js"
   ]
 }
