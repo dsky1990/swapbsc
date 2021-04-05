@@ -169,18 +169,18 @@
     {
       "name": "Binance-Peg BUSD-T",
       "address": "0x55d398326f99059fF775485246999027B3197955",
-      "symbol": "usdt",
+      "symbol": "USDT",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x55d398326f99059fF775485246999027B3197955.png"
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x55d398326f99059ff775485246999027b3197955.png"
     },
     {
       "name": "Swipe",
-      "address": "0x5b736f2bc639d2975c8151327f0abdcda2002509",
+      "address": "0x47bead2563dcbf3bf2c9407fea4dc236faba485a",
       "symbol": "SXP",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x5b736f2bc639d2975c8151327f0abdcda2002509.png"
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x47bead2563dcbf3bf2c9407fea4dc236faba485a.png"
     },
     {
       "name": "Binance-Peg Polkadot Token",
@@ -200,11 +200,11 @@
     },
     {
       "name": "USD Coin",
-      "address": "0x891a23f3f2a2259d5f8fd30cba5fe8ee37e95390",
+      "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
       "symbol": "USDC",
       "decimals": 18,
       "chainId": 56,
-      "logoURI":  "https://mdex.com/token-icons/bsc/0x891a23f3f2a2259d5f8fd30cba5fe8ee37e95390.png"
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.png"
     },
     {
       "name": "Binance-Peg Cardano Token",
@@ -281,7 +281,7 @@
     {
       "name": "Injective Protocol",
       "address": "0xa2b726b1145a4773f68593cf171187d8ebe4d495",
-      "symbol": "inj",
+      "symbol": "INJ",
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0xa2b726b1145a4773f68593cf171187d8ebe4d495.png"
@@ -306,7 +306,7 @@
       "name": "Binance-Peg Cosmos Token",
       "address": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
       "symbol": "ATOM",
-      "decimals": 6,
+      "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0x0eb3a705fc54725037cc9e008bdede697f62f335.png"
     }, 
