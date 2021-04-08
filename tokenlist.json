@@ -493,6 +493,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.com/token-icons/bsc/0x948d2a81086a075b3130bac19e4c6dee1d2e3fe8.png"
-    }          
+    },
+    {
+      "name": "Binance-Peg MDX",
+      "address": "0x9C65AB58d8d978DB963e63f2bfB7121627e3a739",
+      "symbol": "MDX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.com/token-icons/bsc/0x9c65ab58d8d978db963e63f2bfb7121627e3a739.png"
+    }               
   ]
 }
